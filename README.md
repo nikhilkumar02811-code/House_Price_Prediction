@@ -9,9 +9,6 @@ A complete end-to-end Machine Learning web application that predicts house price
 ## 🚀 Project Overview
 
 This project demonstrates how to build, train, and deploy a Machine Learning model into a web application. Users can enter property details through a simple UI and get instant price predictions.
-<img width="1366" height="768" alt="Screenshot (49)" src="https://github.com/user-attachments/assets/75498a50-ad03-4c6e-8414-d887af6063f2" />
-<img width="877" height="495" alt="Snapshot of the Dashboard" src="https://github.com/user-attachments/assets/5f79b0e3-6661-4b81-b5b4-03c00ddb9f5c" />
-
 ---
 
 ## 🎯 Key Features
